@@ -13,7 +13,6 @@ coverage/
 
 # IDEs
 .idea/
-.vscode/
 *.iml
 
 # Project Specific
@@ -80,3 +79,4 @@ intellij-plugin/build/
 # Note: gradle/, gradlew, gradlew.bat are NOT ignored - needed for CI/CD
 .mcp.json
 node_modules
+config.bat
