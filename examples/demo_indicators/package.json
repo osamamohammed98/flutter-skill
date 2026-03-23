@@ -5,7 +5,7 @@
   "main": "run_demo.js",
   "scripts": {
     "demo": "node run_demo.js",
-    "start": "bash quick_demo.sh"
+    "start": "node init && bash quick_demo.sh"
   },
   "keywords": [
     "flutter",
